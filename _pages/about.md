@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Cindy</strong> Zhang
-description: Undergraduate Student at MIT.
+description: Undergraduate student at MIT.
 
 profile:
   align: right
@@ -12,8 +12,8 @@ news: true
 social: true
 ---
 
-Hi! I'm Cindy, a sophomore at MIT studying mathematics and computer science. I previously worked as a software engineering intern at [Divvly](https://divvly.com/){:target="\_blank"} and as an undergraduate researcher at [MIT App Inventor](https://appinventor.mit.edu/explore/){:target="\_blank"}.
+Hi! I'm Cindy, a sophomore at MIT studying mathematics and computer science. I previously worked as a software  engineering intern at [Divvly](https://divvly.com/){:target="\_blank"}, an undergraduate researcher at [MIT App Inventor](https://appinventor.mit.edu/explore/){:target="\_blank"}, and a counselor at the [Ross Mathematics Program](https://rossprogram.org/){:target="\_blank"}.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, I am interested in using probability and statistics to analyze
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my free time, I enjoy running, baking, and photography. If you have any questions or would like to chat, free to contact me at cindyyz at mit dot edu.
