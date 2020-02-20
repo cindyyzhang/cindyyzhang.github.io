@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  First month in the Netherlands
+title:  test post with images
 date: 2015-05-15 21:01:00
 description: this is what included images could look like
 ---
