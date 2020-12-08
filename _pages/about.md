@@ -6,7 +6,7 @@ description: Undergraduate student at MIT.
 
 profile:
     align: right
-    image: prof.jpg
+    image: aprof.jpg
 
 news: false
 ---
