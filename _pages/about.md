@@ -10,8 +10,8 @@ profile:
 news: false
 ---
 
-Hi! I'm Cindy, a junior at MIT studying mathematics and computer science. My academic interests include machine learning, algorithms, and complexity theory. I'm currently working on differential privacy research in the [Camera Culture Group](https://www.media.mit.edu/groups/camera-culture/overview/){:target="\_blank"}.
+Hi! I'm a senior at MIT studying mathematics and computer science. My main research interests are in machine learning fairness, robustness, and reliability. Currently, I'm working with Professor Devavrat Shah in the [Laboratory for Information and Decision Systems](https://lids.mit.edu/){:target="\_blank"}.
 
-I previously worked on software for [Uber ATG](https://www.uber.com/us/en/atg/){:target="\_blank"}, [MIT App Inventor](https://appinventor.mit.edu/explore/){:target="\_blank"} and [Divvly](https://divvly.com/){:target="\_blank"}. I was also a counselor at the [Ross Mathematics Program](https://rossprogram.org/){:target="\_blank"} and a teaching assistant on [Art of Problem Solving](https://artofproblemsolving.com/){:target="\_blank"}.
+Previously, I have worked on machine learning research in the [Mądry Lab](http://madry-lab.ml/){:target="\_blank"} and the [Learning and Intelligent Systems Group](https://lis.csail.mit.edu/){:target="\_blank"}. I have also worked on software for [Uber ATG](https://aurora.tech/){:target="\_blank"}, [MIT App Inventor](https://appinventor.mit.edu/explore/){:target="\_blank"} and [Divvly](https://divvly.com/){:target="\_blank"}.
 
-In my free time, I enjoy running, cooking, reading, and photography. If you have any questions or would like to chat, feel free to contact me at cindyyz at mit dot edu.
+In my free time, I enjoy cooking, reading, and photography, and I'm always looking to experiment with making fusion cuisine. If you have any questions or would like to chat, feel free to contact me at cindyyz at mit dot edu.
