@@ -15,4 +15,4 @@ Hi! I'm a senior at MIT studying mathematics and computer science. My main resea
 
 Previously, I have worked on machine learning research in the [Mądry Lab](http://madry-lab.ml/){:target="\_blank"} and the [Learning and Intelligent Systems Group](https://lis.csail.mit.edu/){:target="\_blank"}. I have also worked on software for [Uber ATG](https://aurora.tech/){:target="\_blank"}, [MIT App Inventor](https://appinventor.mit.edu/explore/){:target="\_blank"} and [Divvly](https://divvly.com/){:target="\_blank"}.
 
-In my free time, I enjoy cooking, reading, and photography. I love experimenting with fusion cuisine and adapting recipes from [here](https://damndelicious.net/){:target="\_blank"} and [here](https://www.pickuplimes.com/){:target="\_blank"}. If you have any questions or would like to chat, feel free to contact me at cindyyz at mit dot edu.
+In my free time, I enjoy cooking, reading, and photography. I love experimenting with fusion cuisine and baking bread with unconventional ingredients. If you have any questions or would like to chat, feel free to contact me at cindyyz at mit dot edu.
