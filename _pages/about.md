@@ -8,6 +8,7 @@ profile:
     image: aprof.jpg
 
 news: true
+social: true
 ---
 
 Hi! I'm a senior at MIT studying mathematics and computer science. My main research interests are in understanding and improving machine learning techniques and algorithms in the context of fairness, robustness, and reliability. Currently, I'm working with Professor Devavrat Shah in the [Laboratory for Information and Decision Systems](https://lids.mit.edu/){:target="\_blank"}.
