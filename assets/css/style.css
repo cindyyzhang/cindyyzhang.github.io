@@ -1,0 +1,108 @@
+/* Custom overrides for LaTeX.css */
+
+/* Increase default width */
+body,
+article,
+main {
+    max-width: 750px;
+}
+
+/* Header styles */
+header {
+    text-align: center;
+    margin-bottom: 3rem;
+    padding-top: 2rem;
+}
+
+header h1 {
+    margin-bottom: 1.5rem;
+}
+
+.profile-img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+    border: none !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+}
+
+/* Ensure profile images in other layouts (e.g., About page) are square and borderless */
+.profile img,
+.profile img.one {
+    border: none !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+}
+
+/* Section spacing */
+section {
+    margin-bottom: 4rem;
+}
+
+section h2 {
+    text-align: left;
+    margin-bottom: 1.5rem;
+}
+
+/* Introduction section */
+#introduction p {
+    margin-bottom: 1.2rem;
+}
+
+#introduction ul {
+    margin: 1.2rem 0 1.2rem 2rem;
+}
+
+/* Publications and Projects lists */
+.publications-list,
+.projects-list {
+    list-style: none;
+    padding: 0;
+}
+
+.publications-list li,
+.projects-list li {
+    margin-bottom: 2rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid #eee;
+}
+
+.publications-list li:last-child,
+.projects-list li:last-child {
+    border-bottom: none;
+}
+
+.publications-list strong,
+.projects-list strong {
+    font-size: 1.1rem;
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+.publications-list em {
+    font-style: italic;
+}
+
+.publications-list a,
+.projects-list a {
+    color: #0066cc;
+    text-decoration: none;
+    margin-right: 0.5rem;
+}
+
+.publications-list a:hover,
+.projects-list a:hover {
+    text-decoration: underline;
+}
+
+/* Responsive design */
+@media (max-width: 600px) {
+    .profile-img {
+        width: 150px;
+        height: 150px;
+    }
+}
+
